@@ -17,12 +17,16 @@
 
 ##### Languages / Softwares:
 `Python` | `R` | `SQL` | `Excel`
+
 ##### Data Analysis & Visualization:
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly` | `Tableau` | `Power BI`
+
 ##### Machine Learning & AI:
 `scikit-learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `Keras`
+
 ##### Data Engineering & Databases:
 `SQL` | `MongoDB` | `PostgreSQL` | `Snowflake` | `Airflow`
+
 ##### Tools:
 `Jupyter Notebooks` | `Git` | `VS Code` | `Docker` | `Google Colab`
 
