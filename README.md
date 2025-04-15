@@ -54,7 +54,7 @@
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-patil-3673832a3/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](sagyy2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sagyy2001@gmail.com)
 
 ---
 
