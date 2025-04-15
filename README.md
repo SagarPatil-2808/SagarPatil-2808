@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🔍 Data storyteller with a love for data wrangling, visualization, and machine learning.
-- 📊 Skilled in *data analysis, **data visualization, **statistics, and **predictive modeling*.
+- 📊 Skilled in *data analysis*, *data visualization*, *statistics*, and *predictive modeling*.
 - 🧠 Continuously learning about new tools, algorithms, and technologies.
 - 🎓 Background in Mechanical Engineering from Savitribai University Pune.
 
@@ -22,7 +22,7 @@
 `Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly' | `Power BI`
 
 ##### Machine Learning & AI:
-|`scikit-learn` | 
+`scikit-learn`
 
 ##### Tools:
 `Jupyter Notebooks` | `Git` | `VS Code` | `Google Colab`
@@ -54,7 +54,7 @@
 ## 📫 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-patil-3673832a3/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:sagyy2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](sagyy2001@gmail.com)
 
 ---
 
