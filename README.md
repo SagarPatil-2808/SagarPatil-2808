@@ -19,16 +19,13 @@
 `Python` | `R` | `SQL` | `Excel`
 
 ##### Data Analysis & Visualization:
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly` | `Tableau` | `Power BI`
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly' | `Power BI`
 
 ##### Machine Learning & AI:
-`scikit-learn` | `XGBoost` | `LightGBM` | `TensorFlow` | `Keras`
-
-##### Data Engineering & Databases:
-`SQL` | `MongoDB` | `PostgreSQL` | `Snowflake` | `Airflow`
+|`scikit-learn` | 
 
 ##### Tools:
-`Jupyter Notebooks` | `Git` | `VS Code` | `Docker` | `Google Colab`
+`Jupyter Notebooks` | `Git` | `VS Code` | `Google Colab`
 
 ---
 
