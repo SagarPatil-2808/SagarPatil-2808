@@ -19,7 +19,7 @@
 `Python` | `R` | `SQL` | `Excel`
 
 ##### Data Analysis & Visualization:
-`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly' | `Power BI` |
+`Pandas` | `NumPy` | `Matplotlib` | `Seaborn` | `Plotly` | `Power BI`
 
 ##### Machine Learning & AI:
 `scikit-learn`
