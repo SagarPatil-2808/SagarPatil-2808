@@ -31,15 +31,15 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [Rape Violence In India.]( https://github.com/SagarPatil-2808/Rape-Violence-In-India-Project)
-**Description**: This Streamlit dashboard provides an interactive visualization of sexual assault case data in India from 1999 to 2020. It combines two datasets to show trends, offender categories, state-wise comparisons, correlations, and geospatial insights. Users can filter by year and state to dynamically explore data, with real-time KPIs and charts updates.
-  
-**Tools**: Python, streamlit, pandas, numpy, plotly, geopandas etc.
-
 ### 🔹 [Indian Startup Funding Analysis.]( https://github.com/SagarPatil-2808/Indian-Startup-Funding-Analysis.)
 **Description**: This project is an application for startup funding analysis. It cleans and analyzes funding data using Python and SQL, and displays interactive dashboards in Power BI to showcase investment trends, top startups, and active investors—all in a user-friendly interface. 
 
 **Tools**: Power BI, SQL, pandas  etc.
+
+### 🔹 [Rape Violence In India.]( https://github.com/SagarPatil-2808/Rape-Violence-In-India-Project)
+**Description**: This Streamlit dashboard provides an interactive visualization of sexual assault case data in India from 1999 to 2020. It combines two datasets to show trends, offender categories, state-wise comparisons, correlations, and geospatial insights. Users can filter by year and state to dynamically explore data, with real-time KPIs and charts updates.
+  
+**Tools**: Python, streamlit, pandas, numpy, plotly, geopandas etc.
 
 ---
 
