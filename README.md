@@ -37,7 +37,7 @@
 **Tools**: Power BI, SQL, pandas  etc.
 
 
-### 🔹 [Customer Shopping Behavior Analysis.](https://github.com/YourUsername/Customer-Shopping-Behavior-Analysis)
+### 🔹 [Customer Shopping Behavior Analysis.](https://github.com/SagarPatil-2808/Customer_Shopping_Behavior_Analysis)
 **Description**: This project is an application for customer shopping behavior analysis. It cleans and analyzes shopping data using Python and SQL, and displays interactive dashboards in Power BI to showcase purchasing patterns, top products, discount usage, and active customers—all in a user-friendly interface. 
 
 **Tools**: Python, MySQL, Power BI, etc.
